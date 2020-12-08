@@ -13,11 +13,11 @@ Baixar o repositório e abrir o arquivo index.html no seu navegador ou abrir o l
 wellingtonollv.github.io
 
 
-# Breve explicação
+# Breve explicação:
 
 Optei por utilizar o framework Bootstrap 4, pois já havia utilizado antes, e sua facilidade para um design responsivo é notável.
 
-# Alguns detalhes
+# Alguns detalhes:
 
 Tive dificuldade em alternar para o modo horizontal o conjunto de imagem e dados central, quando o display é menor que 500px. A solução encontrada foi a  utilização de flexbox, porém este tipo de elemento não é tão suscetível à alinhamentos e espaçamentos no modo geral, como pode ver no layout.
 
