@@ -1,6 +1,17 @@
 # wellingtonollv.github.io
 *Responsive Site*
 
+Sobre:
+Desafio de web design, consiste no desenvolvimento de uma pagina em HTML E CSS.
+
+O que foi feito:
+
+Para realizar esse desafio foi utilizado bootstrap 4, onde primeiramente foi feito a pagina mobile, para após fazer a responsividade para desktop, devido a grande variedade de telas para celulares, tentei abordar a maior quantidade de telas que tinha disposivel para testes.
+
+
+Como foi pedido, a paginação seguiu um modelo e isso também seguiu no modelo mobile.
+
+
 Para alterar cores, consulte o arquivo style.scss.
 $nav-color - > altera a cor do menu.
 $main-color - > altera a cor principal do site
@@ -17,11 +28,7 @@ $margin-text-footer: 48px;
 
 Optei por utilizar o framework Bootstrap 4, pois já havia utilizado antes, e sua facilidade para um design responsivo é notável.
 
-O site consiste de uma forma cortada superiormente, seguido de um menu para filtragem, denominado nav. Em seguida possuimos uma flexbox com a combinação de elementos como imagem, texto e botão, em seguida uma imagem com texto disposto a direita e por fim uma forma em formato retangular no footer. 
-
 <--Alguns detalhes-->
-
-A parte da nav, o botão sobrepondo o input text tem algumas falhas em telas de 540x720px.
 
 Tive dificuldade em alternar para o modo horizontal o conjunto de imagem e dados central, quando o display é menor que 500px. A solução encontrada foi a  utilização de flexbox, porém este tipo de elemento não é tão suscetível à alinhamentos e espaçamentos no modo geral, como pode ver no layout.
 
