@@ -10,20 +10,8 @@ Como foi pedido, a paginação seguiu um modelo e isso também seguiu no modelo 
 # Como executar:
 Baixar o repositório e abrir o arquivo index.html no seu navegador ou abrir o link a seguir:
 
-# wellingtonollv.github.io
+wellingtonollv.github.io
 
-
-Para alterar cores, consulte o arquivo style.scss.
-$nav-color - > altera a cor do menu.
-$main-color - > altera a cor principal do site
-$font: -> altera a fonte.
----------------------------------------------------------------------
-Para alterar margens entre containers, consulte o arquivo style.css
-$margin-retangle-nav: 56px;
-$margin-nav-flex: 71px;
-$margin-flex-text: 82px;
-$margin-text-footer: 48px;
-----------------------------------------------------------------------
 
 # Breve explicação
 
