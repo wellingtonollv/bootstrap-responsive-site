@@ -5,8 +5,7 @@ Sobre:
 Desafio de web design, consiste no desenvolvimento de uma pagina em HTML E CSS.
 
 O que foi feito:
-Para realizar esse desafio foi utilizado bootstrap 4, onde primeiramente foi feito a pagina mobile, para após fazer a responsividade para desktop, devido a grande variedade de telas para celulares, tentei abordar a maior quantidade de telas que tinha disposivel para testes.
-
+Para realizar esse desafio foi utilizado bootstrap 4, onde primeiramente foi feito a pagina mobile, para após fazer a responsividade para desktop.
 Como foi pedido, a paginação seguiu um modelo e isso também seguiu no modelo mobile.
 
 Como executar:
